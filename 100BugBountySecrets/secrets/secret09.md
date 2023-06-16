@@ -29,4 +29,4 @@ Based on [vamshivaran110](https://medium.com/@vamshivaran110/fuzzing-with-custom
 </br>&nbsp;
 
 ## Support
-You can Follow [me](https://twitter.com/MeAsHacker_HNA) on twitter or buy me a [Coffee](https://buymeacoffee.com/NafisiAslH)
+You can Follow [me](https://twitter.com/iamfuche) on twitter 
