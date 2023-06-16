@@ -46,4 +46,4 @@ Based on [Bhavesh Thakur](https://bhavesh-thakur.medium.com/content-security-pol
 </br>&nbsp;
 
 ## Support
-You can Follow [me](https://twitter.com/MeAsHacker_HNA) on twitter or buy me a [Coffee](https://buymeacoffee.com/NafisiAslH)
+You can Follow [me](https://twitter.com/iamfuche) on twitter 
