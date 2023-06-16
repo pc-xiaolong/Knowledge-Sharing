@@ -35,4 +35,4 @@ Based on [Jhaddix](https://docs.google.com/presentation/d/1cMSRVlJJ5de6Pyv-09Ygz
 </br>&nbsp;
 
 ## Support
-You can Follow [me](https://twitter.com/MeAsHacker_HNA) on twitter or buy me a [Coffee](https://buymeacoffee.com/NafisiAslH)
+You can Follow [me](https://twitter.com/iamfuche) on twitter 
