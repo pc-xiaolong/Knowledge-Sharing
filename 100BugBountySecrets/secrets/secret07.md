@@ -52,4 +52,4 @@ Based on [Johne_Jacob](https://medium.com/@Johne_Jacob/7-security-response-heade
 </br>&nbsp;
 
 ## Support
-You can Follow [me](https://twitter.com/MeAsHacker_HNA) on twitter or buy me a [Coffee](https://buymeacoffee.com/NafisiAslH)
+You can Follow [me](https://twitter.com/iamfuche) on twitter 
