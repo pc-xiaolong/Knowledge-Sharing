@@ -109,4 +109,4 @@ Based on [ihebhamad](https://blog.ihebhamad.tn/recon-videos/)'s github page.
 </br>&nbsp;
 
 ## Support
-You can Follow [me](https://twitter.com/MeAsHacker_HNA) on twitter or buy me a [Coffee](https://buymeacoffee.com/NafisiAslH)
+You can Follow [me](https://twitter.com/iamfuche) on twitter 
